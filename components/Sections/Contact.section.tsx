@@ -4,8 +4,7 @@ import {
   MdFilePresent,
   AiOutlineGithub,
   AiOutlineTwitter,
-  FaDiscord,
-  FaLinkedinIn,
+  FaLinkedinIn
 } from "../Misc/Icons.collection";
 
 import { Icon } from "../Misc/Icon.component";
@@ -13,7 +12,7 @@ import { Icon } from "../Misc/Icon.component";
 const Contact = () => {
   return (
     <div className="font-sen px-3" id="contact">
-      <p className="text-3xl font-bold text-white">Contact Me</p>
+      <p className="text-3xl font-bold text-fourth">Contact Me</p>
 
       <div className="my-8 flex flex-row justify-center gap-x-4">
         <Icon icon={<AiOutlineGithub />} url="https://github.com/michaelmarcucci" />

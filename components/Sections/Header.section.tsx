@@ -9,7 +9,7 @@ const TextLink: FC<linkProps> = ({ text, url }) => {
   return (
     <a
       href={url}
-      className="cursor-pointer rounded-md px-4 py-[0.10rem] text-xl text-gray-200 duration-100 hover:bg-zinc-800"
+      className="cursor-pointer rounded-md px-4 py-[0.10rem] text-xl duration-100 hover:bg-zinc-800"
     >
       {text}
     </a>
@@ -24,11 +24,17 @@ const Header: FC = () => {
     >
       <p className="sm:flex sm:flex-row sm:gap-x-4">
         <div className="hidden sm:flex sm:flex-row sm:gap-x-4">
-          <TextLink text="Home" url="#" />
-          <TextLink text="Skills" url="#skills" />
-          <TextLink text="Projects" url="#projects" />         
+          <div className="text-first">
+            <TextLink text="Home" url="#" />
+          </div>
+          <div className="text-second">
+            <TextLink text="Skills" url="#skills" />
+          </div>
+          <div className="text-third">
+            <TextLink text="Projects" url="#projects" />         
+          </div>
         </div>
-        <div className="float-left sm:flex sm:flex-row sm:gap-x-4">
+        <div className="text-fourth float-left sm:flex sm:flex-row sm:gap-x-4">
           <TextLink text="Contact" url="#contact" />
         </div>
         
