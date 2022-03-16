@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       <Contact />
 
       <div className="flex justify-center">
-        <SpotifyCard />
+        {/* <SpotifyCard /> */}
       </div>
     </div>
   );
