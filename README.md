@@ -1,24 +1,21 @@
 <h1>
-    Welcome to my Portfolio
+    Welcome to my Responsive Design Portfolio
 </h1>
+Open up the Inspect tool and play around with the sizing and breakpoints for this mobile first site design
 
-> Note: This is a portfolio template, feel free to use it. And star it if you liked :P
+- Resume download will be available in the near future in Contact section
 
-![demo](./public/assests/docs/demo.png)
+### Tech
+Made use of TailwindCSS, Next.js, & TypeScript
 
-✨ [Live Demo](https://anurag.tech)
+![Demo](./public/assests/docs/portdemo.png)
 
-### Using the template
+✨ [Live Demo Link]()
 
-To use this template, read and follow the steps given in the [Using Guide](./USING.md)
 
-### Author
-
+### Template Author
 😊 Anurag
+This is a portfolio template created by kr-anurag under an MIT License
 
-- [Portfolio](https://anurag.tech)
-- [Github](https://github.com/kr-anurag)
-- [Twitter](https://twitter.com/kr_anurag_)
-- [Blog](https://blog.anurag.tech)
+- [Template Origin Repo](https://github.com/kr-anurag/portfolio)
 
-Give a star ⭐ to show your support :P
