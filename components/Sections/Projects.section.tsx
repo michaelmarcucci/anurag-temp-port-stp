@@ -7,7 +7,7 @@ const Projects: React.FC = () => {
     <div className="my-16 px-3 font-sen" id="projects">
       <p className="text-3xl font-bold text-third">Featured Projects</p>
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
-        <Link href="https://vault3.live" passHref>
+        <Link href="https://medium-sanity-next-tailwind.vercel.app/" passHref>
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#6e7cf8] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
           </a>
         </Link>
 
-        <Link href="https://github.com/avneesh0612/Orbits-UI" passHref>
+        <Link href="https://real-estate-api-site-chakra-ui.vercel.app/" passHref>
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#ee5151] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
@@ -33,7 +33,7 @@ const Projects: React.FC = () => {
           </a>
         </Link>
         
-        <Link href="https://github.com/avneesh0612/Orbits-UI" passHref>
+        <Link href="https://gpt3-figma-project.vercel.app/" passHref>
           <a
             className="h-[7rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#93fd8a] via-[#1c2ae6] to-[#968deb] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
