@@ -10,11 +10,10 @@ Made use of TailwindCSS, Next.js, & TypeScript
 
 ![Demo](./public/assets/docs/portdemo.png)
 
-✨ [Live Demo Link]()
+✨ [Live Demo Link](https://www.devmarcucci.com/)
 
 
 ### Template Author
-😊 Anurag
 This is a portfolio template created by kr-anurag under an MIT License
 
 - [Template Origin Repo](https://github.com/kr-anurag/portfolio)
