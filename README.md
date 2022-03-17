@@ -8,7 +8,7 @@ Open up the Inspect tool and play around with the sizing and breakpoints for thi
 ### Tech
 Made use of TailwindCSS, Next.js, & TypeScript
 
-![Demo](./public/assests/docs/portdemo.png)
+![Demo](./public/assets/docs/portdemo.png)
 
 ✨ [Live Demo Link]()
 
